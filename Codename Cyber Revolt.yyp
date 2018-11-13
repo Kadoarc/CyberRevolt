@@ -1631,6 +1631,14 @@
             }
         },
         {
+            "Key": "7bd69fe8-d85c-4e1d-a689-593bb4f58234",
+            "Value": {
+                "id": "5efdfe50-01b9-448a-9027-7433b545ec40",
+                "resourcePath": "sprites\\spr_checkpointoff\\spr_checkpointoff.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c675f13-6eb5-42aa-bec7-2af5acdf67bd",
             "Value": {
                 "id": "5a667ae5-1235-4d56-96c5-01914ad8333e",
