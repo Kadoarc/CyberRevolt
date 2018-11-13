@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "12aa345b-b9c5-4ff3-b7d2-3b2c1226aea5",
+            "Value": {
+                "id": "28769131-4d2b-483c-a6ba-a7d6ab7078de",
+                "resourcePath": "sprites\\spr_sign\\spr_sign.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1354e05a-7443-40c2-99e0-b0ee7231fab7",
             "Value": {
                 "id": "b3705852-1551-4087-942c-35761baccce3",
