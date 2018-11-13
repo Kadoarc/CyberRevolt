@@ -51,6 +51,13 @@ with (bullet)
 
 if (hp<=0)
 {
+	score_number = instance_create_layer(x, y, "Instances", obj_score);
+with (score_number) {
+    points = 10; // or however many points you want the enemy to be worth
+	global.points += 10;
+}
+
+
 	instance_create_layer(x,y,"Instances", choose(obj_archer_pow, obj_knight_pow, obj_healthpack));
 	instance_destroy();
 }
