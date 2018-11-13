@@ -6,6 +6,7 @@ image_index =+1;
 
 if (place_meeting(x,y, obj_player))
 {
+sprite_index = spr_checkpoint;
 global.checkpoint = id;
 global.checkpointx = x;
 global.checkpointy = y;
