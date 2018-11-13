@@ -617,7 +617,7 @@ if (obj_player.max_hp && obj_player.hp <= 0)
 scr_playerdeath();
 global.life -=1;
 }
- if (global.life <= 0)
+if (global.life <= 0)
 {
 instance_destroy();
 room_goto(GameOverRoom);
