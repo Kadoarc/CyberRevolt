@@ -1407,6 +1407,14 @@
             }
         },
         {
+            "Key": "70489bd1-955f-4ab1-b597-8f67c462e16b",
+            "Value": {
+                "id": "fe1981e0-deed-428f-a282-d8889dae6fc1",
+                "resourcePath": "rooms\\YouWinRoom\\YouWinRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7070d6b6-731f-4fe3-a34f-d6cceaa61779",
             "Value": {
                 "id": "d20de7d3-42e5-4afb-9b08-4b5bcc0b2c6a",
