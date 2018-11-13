@@ -9,7 +9,9 @@
         "b2d1ec73-b4b7-44f4-8563-8f099d39cbc6",
         "98791cd5-cb46-4369-a527-4704ce87c923",
         "37518e52-f474-46ca-80fb-63ca76b682fd",
-        "d68ca0d4-9ca9-4e25-8acc-cc10049e04a7"
+        "d68ca0d4-9ca9-4e25-8acc-cc10049e04a7",
+        "269d4538-24d0-4dd9-8c31-c3d3ffeb913a",
+        "1c2931e6-c631-44b8-b51d-016130c0f6fd"
     ],
     "filterType": "GMObject",
     "folderName": "PowerUp Objects",

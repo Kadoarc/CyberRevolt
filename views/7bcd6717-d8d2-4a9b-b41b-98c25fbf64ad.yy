@@ -6,7 +6,8 @@
     "children": [
         "9142a630-0319-4bb2-86e5-a34893a553f5",
         "86fcf210-2671-4b0b-976d-be4dea3b54e3",
-        "102c502f-0c7f-4a96-9205-aec049f7112b"
+        "102c502f-0c7f-4a96-9205-aec049f7112b",
+        "f0a7a411-e31b-41fc-8082-e0966e469658"
     ],
     "filterType": "GMObject",
     "folderName": "Jester",
