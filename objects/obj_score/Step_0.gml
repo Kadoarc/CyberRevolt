@@ -13,3 +13,17 @@ if(text_alpha > 0)
 
 
 
+/*
+if text_alpha = 1.0{
+	text_alpha = 0.3
+} else
+{
+	text_alpha = 1.0;
+}
+*/
+
+
+
+
+
+
