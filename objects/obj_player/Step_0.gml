@@ -620,7 +620,7 @@ global.life -=1;
  if (global.life <= 0)
 {
 instance_destroy();
-room_goto(GameOverRoom)
+room_goto(GameOverRoom);
 }
 
 
